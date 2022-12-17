@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "name": "Neworking"
+  },
+  {
+    "id": "02",
+    "name": "Web Development"
+  },
+  {
+    "id": "03",
+    "name": "Language"
+  },
+  {
+    "id": "04",
+    "name": "Android App Development"
+  },
+  {
+    "id": "05",
+    "name": "Game Development"
+  },
+  {
+    "id": "06",
+    "name": "Digital Marketing"
+  },
+  {
+    "id": "07",
+    "name": "Graphics Design"
+  }
+]

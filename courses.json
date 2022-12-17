@@ -1,0 +1,290 @@
+[
+  {
+    "_id": "5675bdd013a44538ae7cd96220a75657",
+
+    "category_id": "01",
+    "rating": { "number": 4.6, "badge": "Beginner" },
+    "Enrolled": 180688,
+    "title": "The Complete Networking Fundamentals Course. Your CCNA start",
+    "instructor": {
+      "name": "David Bombal",
+      "published_date": "2022-11-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/11/23173232/Networking-Courses.jpg",
+    "details": "Welcome to the Complete Network Fundamentals Course! In this course, you will learn the technologies that keep the world as you know today connected and running. We cover both the fundamentals of networking as well as the topics in the new Cisco CCNA 200-301 exam. In this course, you will learn about topics such as IP addressing, IP subnetting, Routing, Switches, VLANs, Spanning Tree, Network Address Translation, Wireless and a whole lot more.You will also learn more about the latest networking trends including OpenFlow and Software Defined Networking."
+  },
+  {
+    "_id": "31274771049943d9b4ee23e975fb7b26",
+
+    "category_id": "01",
+    "rating": { "number": 4.7, "badge": "Expert" },
+    "Enrolled": 104573,
+    "title": "CCNA 2020 200-125 Video Boot Camp With Chris Bryant",
+    "instructor": {
+      "name": "Chris Bryant",
+      "published_date": "2018-08-24 19:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://certifind.com/blog/wp-content/uploads/2017/08/computer-network-networking-austin.jpg",
+    "details": "My CCNA Video Boot Camp is totally refreshed for the latest version of the exam, and every video in this course (and all my courses) is fully downloadable, which allows you to study any time, anywhere -- on YOUR schedule.That includes my famous subnetting material and my BGP material -- and I'll make BGP clearer for you than any other instructor or course in the world.  You have my guarantee on that.Sign up now and earn the two most important Cisco certifications there are for one low price -- and join over 90,000 students in preparing for success in the exam room and in real-world networking.You receive immediate, full access to all 27+ hours of the course, and you can stream them or download them anytime you like.From my unbeatable, trick-free methods of teaching you how to perform binary, hex, and decimal conversions all the way through tough OSPF and EIGRP configs, you'll see it all right here on LIVE Cisco routers and switches - and you can watch every single session as often as you like.Thanks for making The Bryant Advantage part of your CCNA success story! Let's get started on your CCNA! "
+  },
+  {
+    "_id": "7732995be3094c47aa8e6770d8af5ccb",
+
+    "category_id": "01",
+    "rating": { "number": 4.4, "badge": "Advanced" },
+    "Enrolled": 85879,
+    "title": "Certified Tester ISTQB® Foundation Level (CTFL) Updated 2022",
+    "instructor": {
+      "name": "Maged Koshty",
+      "published_date": "2022-09-14 07:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://news.utexas.edu/wp-content/uploads/2019/02/Student-Tech-600x400-c-default.jpg",
+    "details": "This course is designed for people seeking foundation-level certification based on the ISTQB® certification program. This course completely covers the current ISTQB® syllabus (2018 version) and also provides additional information and guidance in key areas. The terms used in this course are taken from the current ISTQB® glossary. "
+  },
+  {
+    "_id": "10219afb0c4f4827ba74f1cca46e5f5d",
+
+    "category_id": "01",
+    "rating": { "number": 4.8, "badge": "Beginner" },
+    "Enrolled": 2105,
+    "title": "CompTIA A+ Core 2 (220-1102) Complete Course & Practice Exam",
+    "instructor": {
+      "name": "Jason Dion",
+      "published_date": "2022-11-14 22:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://static.techspot.com/images2/news/bigimage/2020/08/2020-08-24-image-15.jpg",
+    "details": "This course provides everything you need in order to study for the CompTIA A+ Core 2 (220-1102) exam, including a downloadable Study Guide (PDF), quizzes to check your knowledge as you progress through the videos, and a full-length practice exam to test your knowledge before test day!Jason Dion is an expert in information technology and cybersecurity with over 20 years of experience, and he has designed this course to be a fun way to learn what you need to know to pass the CompTIA A+ Core 2 (220-1102) exam or to better prepare yourself to serve as a service analyst or computer technician in your organization information technology (IT) divisions.CompTIA A+ Core 2 (220-1102) is an early-career IT support technician certification covering the theory and technical skills required to support operating system, applications, and security in a corporate environment using the proper operational procedures. "
+  },
+  {
+    "_id": "abda1bfa201e46deadcf667ee3ef525f",
+
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Beginner" },
+    "Enrolled": 11629,
+    "title": "Javascript for Beginners",
+    "instructor": {
+      "name": "Dollar Design School",
+      "published_date": "2016-04-14 07:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://www.freecodecamp.org/news/content/images/2021/06/javascriptfull.png",
+    "details": "If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing the language of the browser is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript course will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career. "
+  },
+  {
+    "_id": "c5bb1408351945288ee887d3b782ad2d",
+
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Expert" },
+    "Enrolled": 11039,
+    "title": "AJAX Development",
+    "instructor": {
+      "name": "Mark Lassoff",
+      "published_date": "2016-04-14 07:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://i0.wp.com/elysiumacademy.org/wp-content/uploads/2018/12/ajax.jpg",
+    "details": "With our Ajax course and a little Javascript knowledge you can use Ajax to take database information and store, alter, sort and conditionally format it all on the client side.  This minimizes the load on your server and makes your applications respond quickly and without reloading the HTML page.  Ajax communicates with the server behind the scenes while your user continues to use your web site, accessing the information they want. Our course will show you numerous Ajax examples and help you become proficient in using Ajax. In our Ajax course, master trainer Mark Lassoff takes you through the basics of Ajax right to advanced topics like parsing JSON responses from web services.  Our Ajax course is recommended for all web developers who want to improve their client side skills, and make professional, fast and responsive web applications. "
+  },
+  {
+    "_id": "b76b6beb9a8e43fab4bd7178c7399dce",
+
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Beginner" },
+    "Enrolled": 839355,
+    "title": "The Web Developer Bootcamp 2022",
+    "instructor": {
+      "name": "Colt Steele",
+      "published_date": "2022-07-12 17:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://miro.medium.com/max/750/1*jGtzzbyshVAnYHrslLtbAg.jpeg",
+    "details": "Hi! Welcome to the brand new version of The Web Developer Bootcamp, Udemy's most popular web development course.  This course was just completely overhauled to prepare students for the 2022 job market, with over 60 hours of brand new content. This is the only course you need to learn web development. There are a lot of options for online developer training, but this course is without a doubt the most comprehensive and effective on the market. When you're learning to program you often have to sacrifice learning the exciting and current technologies in favor of the beginner friendly classes.  With this course, you get the best of both worlds.  This is a course designed for the complete beginner, yet it covers some of the most exciting and relevant topics in the industry. "
+  },
+  {
+    "_id": "d3cd9ef5008f481288a850b2fb6ca9d1",
+
+    "category_id": "02",
+    "rating": { "number": 4.7, "badge": "Expert" },
+    "Enrolled": 209908,
+    "title": "Vue - The Complete Guide (incl. Router & Composition API)",
+    "instructor": {
+      "name": "Maximilian Schwarzmuller",
+      "published_date": "2022-11-02 12:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://cdn-media-1.freecodecamp.org/ghost/2019/03/vueart.png",
+    "details": "Frontend frameworks like Vue JS are extremely popular because they give us this reactive, great user experience we know from mobile apps - but now in the browser! No wonder that jobs requiring frontend framework skills like VueJS are amongst the best paid ones in the industry! You may know Angular 2+ and ReactJS, well, VueJS combines the best of both frameworks and makes building anything from small widgets to big, enterprise-level apps a breeze and a whole lot of fun! Basic JavaScript Knowledge is Required ,ES6 Knowledge is a Must ,Basic HTML and CSS Knowledge is assumed throughout the Course "
+  },
+  {
+    "_id": "384e409dbdc945ea82c5d7b80a4cdfd5",
+
+    "category_id": "03",
+    "rating": { "number": 4.7, "badge": "Beginner" },
+    "Enrolled": 118175,
+    "title": "English Grammar Launch: Upgrade your speaking and listening",
+    "instructor": {
+      "name": "Anthony Kelleher",
+      "published_date": "2022-02-02 22:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://www.englishexplorer.com.sg/wp-content/uploads/2017/02/english-course.jpg",
+    "details": "English Grammar Launch is an intermediate English grammar course taught by me, Anthony, a native British English speaker. You will learn the target grammar structures at a deep level, so that you can sound more native-like when you speak English.This course includes: lectures for the target structures,listening and speaking practice for every single grammar structure,future updates - this course will continue to grow and grow,PDF transcripts,and MP3 downloads so that you can learn anywhere, any time.Each section focuses on one, two or three target structures so that you can master each one and produce it accurately in your spoken English."
+  },
+  {
+    "_id": "a3ad5162f41a4e6f8e54a73470a6989b",
+
+    "category_id": "03",
+    "rating": { "number": 4.3, "badge": "Beginner" },
+    "Enrolled": 84662,
+    "title": "Learn German Language: Complete German Course - Beginners",
+    "instructor": {
+      "name": "AbcEddu Online",
+      "published_date": "2021-05-01 10:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://www.studying-in-germany.org/wp-content/uploads/2018/08/learn-german-language-with-online-courses.jpg",
+    "details": "In this course the native German speaking teacher covers the following topics: German speaking, German pronunciation, German writing, German grammar rules and patterns, German vocabulary, German conversation and communication skills. The interactive board and the subtitles help the visual learners and the immersion method used for teaching German accelerates the learning speed, the comprehension of the spoken German and the fluency.The available subtitles make it the best choice for English, Spanish, Italian or any other non-native German speakers.The course starts from basics and includes free .pdf support and practice tests / quizzes.Deutsch lernen!"
+  },
+  {
+    "_id": "3bd961c9e929484d877f871f23fc84bb",
+
+    "category_id": "04",
+    "rating": { "number": 4.4, "badge": "Advanced" },
+    "Enrolled": 27226,
+    "title": "The Complete Android 12 Developer Course - Mastering Android",
+    "instructor": {
+      "name": "Abbass Masri",
+      "published_date": "2022-11-01 10:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://elysiumacademy.org/wp-content/uploads/2018/12/Android.jpg",
+    "details": " Develop apps for the very latest version of Android 7 Nougat that also work on older Android devices running older versions of the Android operating system,Download, install and configure the necessary (free) software,Create your first app,Build a range of apps demonstrating key aspects of the Android framework,Test your apps on emulators or a real Android phone or tablet,You’ll learn Java programming because Android app development requires knowledge of Java. Included are Java tutorial videos that will get you up to speed fast,Ensure your apps work with current and older Android versions on phones and tablets,Use Android studio 4, the newest version of Google's premier Android tool,Learn how to use databases, web services, and even get your apps to speak!,Understand the all new Constraint layout, for drag and drop screen creation,Use powerful libraries of code to play videos, download website data, manipulate images, and a whole lot more!So, Why you are wasting Time? Enrol Now to get your feet wet in android coding...."
+  },
+  {
+    "_id": "a01e7a9da498408194b5c79a64b05cd8",
+
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Advanced" },
+    "Enrolled": 88388,
+    "title": "The Complete Android Oreo Developer Course - Build 23 Apps!",
+    "instructor": {
+      "name": "Rob Percival",
+      "published_date": "2021-10-01 10:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://incipientinfo.com/wp-content/uploads/2019/02/Android-Oreo-2.jpeg",
+    "details": " Whether you’re looking to usher in the next generation of smart TVs, fitness wearables, games consoles, game-changing AI, smartwatches -- or just build simple apps for good old fashioned fun -- Android 8.0 Oreo is your key to unbridled creativity.Fresh from Google’s workshop, Android 8.0 Oreo is stable, feature-rich and functional as ever. Not only can you develop more efficiently, but you’ll get new ways to extend your app.All you need is the right idea, or that lucky bit of exposure -- and your ‘big break’ might just be around the corner… BONUS MINI COURSE: Get your free mini course on Kotlin. Kotlin is new programing language you can use in place of Java when making android apps. It’s gaining more and more support and is an essential skill as an Android developer."
+  },
+  {
+    "_id": "e882a50b45544adbba11bfd889f81f60",
+
+    "category_id": "04",
+    "rating": { "number": 4.8, "badge": "Beginner" },
+    "Enrolled": 239,
+    "title": "Android Development: Android App Development From Scratch",
+    "instructor": {
+      "name": "Oak Academy",
+      "published_date": "2021-12-01 11:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://www.fossmint.com/wp-content/uploads/2019/02/Android-Development-Courses.jpg",
+    "details": "Welcome to Android Development: Android App Development From Scratch course.Learn java, android, android studio, android development and android app development with Android 11, become a developer.Due to its open-source nature, working with the Android platform necessitates constantly learning about the Android platform. My android development course on Udemy keeps you ahead of this learning curve, with hands-on lectures on Android operating systems and more.The Android platform is increasingly popular with developers and a dominant force in the global smartphone market.OAK Academy based in London is an online education company. OAK Academy gives education in the field of IT, Software, Design, development in Turkish, English, Portuguese, Spanish, and a lot of different language on Udemy platform where it has over 1000 hours of video education lessons. OAK Academy both increase its education series number by publishing new courses, and it makes students aware of all the innovations of already published courses by upgrading.When you enroll, you will feel the OAK Academy`s seasoned developers' expertise.Fresh Content:It’s no secret how technology is advancing at a rapid rate. New tools are released every day, Google updates Android and it’s crucial to stay on top of the latest knowledge. With this course, you will always have a chance to follow the latest trends."
+  },
+  {
+    "_id": "902768afa2bd4ea08a8e6f44c5e16396",
+
+    "category_id": "05",
+    "rating": { "number": 4.6, "badge": "Beginner" },
+    "Enrolled": 85067,
+    "title": "The Ultimate Guide to Game Development with Unity (Official)",
+    "instructor": {
+      "name": "Jonathan Weinberger",
+      "published_date": "2022-10-01 10:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://connect-prd-cdn.unity.com/cdn-origin/images/learn-metadata-hero.jpg",
+    "details": " No prior programming or Unity experience is required. If you have worked in C# or Unity before, this course can help you fine-tune your game development skills.In this course, I will walk you through installing Unity on your computer. It will be helpful if you are comfortable with installing your own software.A basic understanding of mathematics (order of operations, addition, subtraction, multiplication) will facilitate comprehension of certain coding logic.Before beginning this course, you should be comfortable browsing the Web. In this Unity course, you will: Master C# concepts such as variables and if statements,Detect collisions, receive user input, and create player movements,Create power-ups including triple shots, laser beams, speed boosts, and shields,Apply shaders that transform your game backgrounds,Create enemies with basic AI behavior,Deploy your game to over 20 web or mobile platforms using Unity,And more!"
+  },
+  {
+    "_id": "8a7fa62c5ecf41c5a827a3d3debe9611",
+
+    "category_id": "07",
+    "rating": { "number": 4.7, "badge": "Beginner" },
+    "Enrolled": 150612,
+    "title": "Adobe After Effects: Complete Course from Novice to Expert",
+    "instructor": {
+      "name": "Louay Zambarakji",
+      "published_date": "2022-10-01 10:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://www.e-spincorp.com/wp-content/uploads/2020/04/Adobe-After-Effects-1.jpg",
+    "details": " You will start with a fast track to get familiar with After Effects and Create a Crash Animation. You will then learn all about the essential transformations using practical animations and useful examples. You will build Projects and Videos from scratch and practically learn more about numerous features and functions of After Effects.You will go through projects where you will learn how to create animation sequences and package a whole video.Essential manipulation of the many methods in After Effects are covered with emphasis on practical use and not just an overview of methods.Most importantly throughout the course the spirit of compositing, putting together Visual Effects and Motion Graphics is thoroughly covered. This experience is invaluable for you to master Visual Effects in After Effects."
+  },
+  {
+    "_id": "923733ab439f4e7b890bdfc6310ca2f8",
+
+    "category_id": "07",
+    "rating": { "number": 4.5, "badge": "Advanced" },
+    "Enrolled": 16686,
+    "title": "Motion Design with Figma: Animations, Motion Graphics, UX/UI",
+    "instructor": {
+      "name": "Zero To Mastery",
+      "published_date": "2022-12-01 10:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://149611589.v2.pressablecdn.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png",
+    "details": " Using the latest best practices in Motion Design, as well as User Interface and User Experience Design (UI/UX), this course focuses on efficiently teaching you all about building Interactions, Animations and Motion Graphic for all your future Web and Mobile App projects. We will be using Figma to accomplish this, which is now the #1 tool used by modern designers, and is replacing all outdated design tools of the past.We will provide all Figma files, premium design templates, and assets in this course for you, so you can keep and use them when you work with all your future clients! We guarantee you this is the most comprehensive online resource on Motion Design, Microinteractions, Animations and creating beautiful UX/UI!The curriculum is going to be very hands on as we walk you from start to finish of working as a Motion Designer..."
+  },
+  {
+    "_id": "5f86032b71e24f088aabc5338ca4784c",
+
+    "category_id": "07",
+    "rating": { "number": 4.7, "badge": "Beginner" },
+    "Enrolled": 183249,
+    "title": "Graphic Design Masterclass - Learn GREAT Design",
+    "instructor": {
+      "name": "Lindsay Marsh",
+      "published_date": "2022-12-01 10:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://img.freepik.com/vektoren-kostenlos/bunte-geometrische-beschriftung-des-grafikdesigns_52683-34588.jpg?w=2000",
+    "details": " We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few.We also learn the basics of Adobe Photoshop, illustrator and InDesign and do projects with real world applications. Every designer needs to know and master these programs and this course makes sure you know the essential tools to power through amazing projects.In Adobe Photoshop, we will review photo editing and manipulation techniques like how to cut objects out, duotones, changing color on objects, the liquify tool and we will create a compelling YouTube thumbnail with our newly learned photoshop skills as well as an entire book cover design project.In Adobe Illustrator, we will master the pen tool by hand tracing simple and complex shapes. We will explore the power of the shape builder tool and In the end of this section, we will design a complete logo design. There is an entirely new introduction and tools section that has been added where we work through a 7 page vector tracing worksheet and in the end create a complex vector illustration using our newly learned illustrator vector tools. Lastly, we will put together an event flyer to practice our layout skills, and even work through the branding process and create a logo, business card and letterhead for a business.We will will create a magazine layout in InDesign and learn the master pages tool to drastically speed up your design workflow when working with multiple paged layouts.We will talk about branding basics, what makes a good logo? How do you extend your logo or brand to other marketing materials?I designed this extensive course to be gentle enough for new comers to design but detailed enough for everyone to get a TON out of this course."
+  },
+  {
+    "_id": "71f81c741f7b4d9b9fa2f2a99e048384",
+
+    "category_id": "07",
+    "rating": { "number": 4.7, "badge": "Expert" },
+    "Enrolled": 3388,
+    "title": "Graphic Design Masterclass: Design Beautiful 40+ Projects",
+    "instructor": {
+      "name": "Cristian Doru Barin",
+      "published_date": "2022-12-01 10:02:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+
+    "image_url": "https://149611589.v2.pressablecdn.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png",
+    "details": " All these projects are going to be done in Photoshop, but the great thing about it is you don't need any serious experience with it. As long as you have a very basic understanding of the program, I'll teach you everything you need to know. In case you never opened Photoshop and you have no clue about it, then this course may not be for you.\nImportant Features Included:\nCourse workbook: use it to get up and running fast. It contains answers to most questions, detailed explanations about certain techniques shown in the videos, and much more;\nLive chat: my students frequently find me on our Discord group chat. This is a free program where you can chat with my fantastic community of students, ask questions, and get help fast. I'm regularly on there!\nAll the sources files are included (PSDs): this means you can quickly replace my content with yours and use my designs without any strings attached!\nFacebook group: get access to a private group of over 5.000 people who regularly share their designs, insights, and comments.\nPhotoshop is not just about manipulating photos, making waist smaller or removing acne! Through this course you'll learn how to use it like the powerful tool it is and you'll be able to supercharge your career or personal projects."
+  }
+]
