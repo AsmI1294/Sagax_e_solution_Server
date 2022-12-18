@@ -5,9 +5,15 @@ const cors = require("cors");
 app.use(cors());
 
 const categories = require("./categories.json");
+const courses = require("./courses.json");
 
 app.get("/categories", (req, res) => {
   res.send(categories);
+});
+app.get("/courses/:id", (req, res) => {
+  const id = req.params.id;
+  const eachCat = courses.filter((cat) => cat.category_id == id);
+  res.send(eachCat);
 });
 
 app.listen(port, () => {

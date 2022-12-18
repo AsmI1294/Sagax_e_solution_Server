@@ -1,7 +1,8 @@
 [
   {
     "_id": "5675bdd013a44538ae7cd96220a75657",
-
+    "price": "160",
+    "hours": "12",
     "category_id": "01",
     "rating": { "number": 4.6, "badge": "Beginner" },
     "Enrolled": 180688,
@@ -17,7 +18,8 @@
   },
   {
     "_id": "31274771049943d9b4ee23e975fb7b26",
-
+    "price": "9.99",
+    "hours": "30",
     "category_id": "01",
     "rating": { "number": 4.7, "badge": "Expert" },
     "Enrolled": 104573,
@@ -33,7 +35,8 @@
   },
   {
     "_id": "7732995be3094c47aa8e6770d8af5ccb",
-
+    "price": "201",
+    "hours": "40",
     "category_id": "01",
     "rating": { "number": 4.4, "badge": "Advanced" },
     "Enrolled": 85879,
@@ -49,7 +52,8 @@
   },
   {
     "_id": "10219afb0c4f4827ba74f1cca46e5f5d",
-
+    "price": "110",
+    "hours": "13",
     "category_id": "01",
     "rating": { "number": 4.8, "badge": "Beginner" },
     "Enrolled": 2105,
@@ -65,7 +69,8 @@
   },
   {
     "_id": "abda1bfa201e46deadcf667ee3ef525f",
-
+    "price": "169",
+    "hours": "15",
     "category_id": "02",
     "rating": { "number": 4.3, "badge": "Beginner" },
     "Enrolled": 11629,
@@ -81,7 +86,8 @@
   },
   {
     "_id": "c5bb1408351945288ee887d3b782ad2d",
-
+    "price": "150",
+    "hours": "10",
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Expert" },
     "Enrolled": 11039,
@@ -97,7 +103,8 @@
   },
   {
     "_id": "b76b6beb9a8e43fab4bd7178c7399dce",
-
+    "price": "130",
+    "hours": "8",
     "category_id": "02",
     "rating": { "number": 4.5, "badge": "Beginner" },
     "Enrolled": 839355,
@@ -113,7 +120,8 @@
   },
   {
     "_id": "d3cd9ef5008f481288a850b2fb6ca9d1",
-
+    "price": "160",
+    "hours": "12",
     "category_id": "02",
     "rating": { "number": 4.7, "badge": "Expert" },
     "Enrolled": 209908,
@@ -129,7 +137,8 @@
   },
   {
     "_id": "384e409dbdc945ea82c5d7b80a4cdfd5",
-
+    "price": "120",
+    "hours": "30",
     "category_id": "03",
     "rating": { "number": 4.7, "badge": "Beginner" },
     "Enrolled": 118175,
@@ -145,7 +154,8 @@
   },
   {
     "_id": "a3ad5162f41a4e6f8e54a73470a6989b",
-
+    "price": "182",
+    "hours": "22",
     "category_id": "03",
     "rating": { "number": 4.3, "badge": "Beginner" },
     "Enrolled": 84662,
@@ -161,7 +171,8 @@
   },
   {
     "_id": "3bd961c9e929484d877f871f23fc84bb",
-
+    "price": "150",
+    "hours": "12",
     "category_id": "04",
     "rating": { "number": 4.4, "badge": "Advanced" },
     "Enrolled": 27226,
@@ -177,7 +188,8 @@
   },
   {
     "_id": "a01e7a9da498408194b5c79a64b05cd8",
-
+    "price": "170",
+    "hours": "50",
     "category_id": "04",
     "rating": { "number": 4.5, "badge": "Advanced" },
     "Enrolled": 88388,
@@ -193,7 +205,8 @@
   },
   {
     "_id": "e882a50b45544adbba11bfd889f81f60",
-
+    "price": "169",
+    "hours": "11",
     "category_id": "04",
     "rating": { "number": 4.8, "badge": "Beginner" },
     "Enrolled": 239,
@@ -209,7 +222,8 @@
   },
   {
     "_id": "902768afa2bd4ea08a8e6f44c5e16396",
-
+    "price": "99",
+    "hours": "18",
     "category_id": "05",
     "rating": { "number": 4.6, "badge": "Beginner" },
     "Enrolled": 85067,
@@ -225,7 +239,8 @@
   },
   {
     "_id": "8a7fa62c5ecf41c5a827a3d3debe9611",
-
+    "price": "160",
+    "hours": "11",
     "category_id": "07",
     "rating": { "number": 4.7, "badge": "Beginner" },
     "Enrolled": 150612,
@@ -241,7 +256,8 @@
   },
   {
     "_id": "923733ab439f4e7b890bdfc6310ca2f8",
-
+    "price": "190",
+    "hours": "21",
     "category_id": "07",
     "rating": { "number": 4.5, "badge": "Advanced" },
     "Enrolled": 16686,
@@ -257,7 +273,8 @@
   },
   {
     "_id": "5f86032b71e24f088aabc5338ca4784c",
-
+    "price": "140",
+    "hours": "25",
     "category_id": "07",
     "rating": { "number": 4.7, "badge": "Beginner" },
     "Enrolled": 183249,
@@ -273,7 +290,8 @@
   },
   {
     "_id": "71f81c741f7b4d9b9fa2f2a99e048384",
-
+    "price": "131",
+    "hours": "12",
     "category_id": "07",
     "rating": { "number": 4.7, "badge": "Expert" },
     "Enrolled": 3388,
