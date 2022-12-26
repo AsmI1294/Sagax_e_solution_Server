@@ -10,6 +10,9 @@ const courses = require("./courses.json");
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
+app.get("/", (req, res) => {
+  res.send("Welcome to sagax-e-solution server");
+});
 app.get("/courses/", (req, res) => {
   res.send(courses);
 });
